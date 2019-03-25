@@ -1,0 +1,17 @@
+Nazwy kolumn:
+date - data
+waterlv - poziom wody w piezometrze B1 npm [cm]
+watertemp - temperatura wody w piezometrze B1 [C]
+sealv - poziom morza
+precip - Opady
+temp - Temperatura powietrza [C]
+vwind - Prędkość wiatru
+dwind - Kierunek wiatru
+wind - Kierunek wiatru symbole
+precip1 - Opady 1 dzień wstecz
+precip2 - Opady 2 dni wstecz
+precip3 - Opady 3 dni wstecz
+precip4 - Opady 4 dni wstecz
+precip5 - Opady 5 dni wstecz
+precipsum - Suma opadów dla 5 dni wstecz
+meantemp - Średnia temperatura powietrza dla 5 dni wstecz
